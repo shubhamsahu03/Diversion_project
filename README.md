@@ -1,2 +1,2 @@
-# Diversion_project
-project for diversion 2k23
+# ByteRiot.1
+DIVERSION 2k23
